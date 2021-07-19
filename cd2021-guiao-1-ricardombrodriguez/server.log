@@ -1,0 +1,50 @@
+DEBUG:root:connected Foo
+DEBUG:root:connected Bar
+DEBUG:root:text message: Bar: boas
+DEBUG:root:user Foo joined cd
+DEBUG:root:user Foo joined bd
+DEBUG:root:text message: Foo: ola
+DEBUG:root:user Bar joined cd
+DEBUG:root:text message: Bar: olaaaaaaaaaa
+DEBUG:root:text message: Bar: zarag
+DEBUG:root:text message: Bar: fuck anadia all my homies hate mogofores
+DEBUG:root:connected Foo
+DEBUG:root:connected Bar
+DEBUG:root:text message: Foo: Olá Mundo
+DEBUG:root:text message: Bar: Hello World
+DEBUG:root:connected Foo
+DEBUG:root:connected Bar
+DEBUG:root:text message: Foo: Olá Mundo
+DEBUG:root:text message: Bar: Hello World
+DEBUG:root:text message: Bar: How are you?
+DEBUG:root:text message: Bar: Are you new around here?
+DEBUG:root:text message: Bar: Hope you enjoy your stay
+DEBUG:root:text message: Foo: You are awesome!
+DEBUG:root:connected Foo
+DEBUG:root:connected Bar
+DEBUG:root:text message: Foo: Hello!
+DEBUG:root:text message: Bar: Welcome aboard
+DEBUG:root:text message: Bar: Who are you?
+DEBUG:root:text message: Foo: I'm Joe
+DEBUG:root:text message: Bar: Nice to meet you Joe
+DEBUG:root:text message: Foo: Cya around
+DEBUG:root:connected Foo
+DEBUG:root:connected Bar
+DEBUG:root:text message: Foo: Hello!
+DEBUG:root:user Foo joined #cd
+DEBUG:root:text message: Foo: no one is here...
+DEBUG:root:connected Foo
+DEBUG:root:connected Bar
+DEBUG:root:user Foo joined #c1
+DEBUG:root:user Bar joined #c2
+DEBUG:root:text message: Foo: Hello darkness, my old friend
+DEBUG:root:user Foo joined #c2
+DEBUG:root:text message: Foo: I've come to talk with you again
+DEBUG:root:text message: Foo: Because a vision softly creeping
+DEBUG:root:connected Foo
+DEBUG:root:connected Bar
+DEBUG:root:text message: Bar: extravagante
+DEBUG:root:text message: Foo: és um gordo
+DEBUG:root:user Bar joined cd
+DEBUG:root:user Foo joined cd
+DEBUG:root:text message: Foo: tu é que és
